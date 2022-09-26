@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/desnet-homepage/static/css/main.3790d4c2.css",
-    "main.js": "/desnet-homepage/static/js/main.baa314a7.js",
+    "main.css": "/desnet-homepage/static/css/main.831fb89c.css",
+    "main.js": "/desnet-homepage/static/js/main.37f1e5a5.js",
     "static/media/bg-banner.png": "/desnet-homepage/static/media/bg-banner.4fa5e56429a027a39142.png",
-    "static/media/project1.png": "/desnet-homepage/static/media/project1.a89bd41bdc3037626aed.png",
+    "static/media/project2.png": "/desnet-homepage/static/media/project2.e161e281bdef10b31248.png",
+    "static/media/project1.png": "/desnet-homepage/static/media/project1.fd3ed1d3fd76a47f666a.png",
+    "static/media/project3.png": "/desnet-homepage/static/media/project3.a698cb916f7f14326ea1.png",
     "static/media/banner.png": "/desnet-homepage/static/media/banner.5a7e9ac966573be47b9f.png",
     "static/media/coin98-logo.svg": "/desnet-homepage/static/media/coin98-logo.eb493c44a13139a6130205d83b9d5ab5.svg",
     "static/media/sentre-logo.svg": "/desnet-homepage/static/media/sentre-logo.c81eef8b8aeefdd7c5be04218d179b4a.svg",
@@ -15,11 +17,11 @@
     "static/media/2022y.svg": "/desnet-homepage/static/media/2022y.496284a7c21630f9782ed301577dd8c2.svg",
     "static/media/2021y.svg": "/desnet-homepage/static/media/2021y.9f7640d954e47f3d12e856afbd8dffb0.svg",
     "index.html": "/desnet-homepage/index.html",
-    "main.3790d4c2.css.map": "/desnet-homepage/static/css/main.3790d4c2.css.map",
-    "main.baa314a7.js.map": "/desnet-homepage/static/js/main.baa314a7.js.map"
+    "main.831fb89c.css.map": "/desnet-homepage/static/css/main.831fb89c.css.map",
+    "main.37f1e5a5.js.map": "/desnet-homepage/static/js/main.37f1e5a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3790d4c2.css",
-    "static/js/main.baa314a7.js"
+    "static/css/main.831fb89c.css",
+    "static/js/main.37f1e5a5.js"
   ]
 }
