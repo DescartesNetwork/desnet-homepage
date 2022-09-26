@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/desnet-homepage/static/css/main.831fb89c.css",
-    "main.js": "/desnet-homepage/static/js/main.37f1e5a5.js",
+    "main.css": "/desnet-homepage/static/css/main.6da81a36.css",
+    "main.js": "/desnet-homepage/static/js/main.bd1f6fe1.js",
     "static/media/bg-banner.png": "/desnet-homepage/static/media/bg-banner.4fa5e56429a027a39142.png",
+    "static/media/project2-mobile.png": "/desnet-homepage/static/media/project2-mobile.a0d03aad32a584093aa0.png",
     "static/media/project2.png": "/desnet-homepage/static/media/project2.e161e281bdef10b31248.png",
+    "static/media/project1-mobile.png": "/desnet-homepage/static/media/project1-mobile.f74ab6cde545cd823222.png",
     "static/media/project1.png": "/desnet-homepage/static/media/project1.fd3ed1d3fd76a47f666a.png",
     "static/media/project3.png": "/desnet-homepage/static/media/project3.a698cb916f7f14326ea1.png",
     "static/media/banner.png": "/desnet-homepage/static/media/banner.5a7e9ac966573be47b9f.png",
+    "static/media/project3-mobile.png": "/desnet-homepage/static/media/project3-mobile.46eb2f172b1eadd3894a.png",
     "static/media/coin98-logo.svg": "/desnet-homepage/static/media/coin98-logo.eb493c44a13139a6130205d83b9d5ab5.svg",
-    "static/media/sentre-logo.svg": "/desnet-homepage/static/media/sentre-logo.c81eef8b8aeefdd7c5be04218d179b4a.svg",
     "static/media/logo-dark.svg": "/desnet-homepage/static/media/logo-dark.61d1a8dd11a982a28b14393ff3269500.svg",
     "static/media/interdao-logo.svg": "/desnet-homepage/static/media/interdao-logo.c79745e8cea3d7d0b342793ac40f2a8d.svg",
     "static/media/logo.png": "/desnet-homepage/static/media/logo.cd91bd40e18ab3249a32.png",
+    "static/media/sentre-logo.svg": "/desnet-homepage/static/media/sentre-logo.bd0f8296cdccc1cde8f0ec34d6d246ec.svg",
     "static/media/2020y.svg": "/desnet-homepage/static/media/2020y.36bbe1681d9350f67c0be08dd0f957c1.svg",
     "static/media/arrow.svg": "/desnet-homepage/static/media/arrow.3bd479ea96a930795bf4.svg",
     "static/media/2022y.svg": "/desnet-homepage/static/media/2022y.496284a7c21630f9782ed301577dd8c2.svg",
     "static/media/2021y.svg": "/desnet-homepage/static/media/2021y.9f7640d954e47f3d12e856afbd8dffb0.svg",
     "index.html": "/desnet-homepage/index.html",
-    "main.831fb89c.css.map": "/desnet-homepage/static/css/main.831fb89c.css.map",
-    "main.37f1e5a5.js.map": "/desnet-homepage/static/js/main.37f1e5a5.js.map"
+    "main.6da81a36.css.map": "/desnet-homepage/static/css/main.6da81a36.css.map",
+    "main.bd1f6fe1.js.map": "/desnet-homepage/static/js/main.bd1f6fe1.js.map"
   },
   "entrypoints": [
-    "static/css/main.831fb89c.css",
-    "static/js/main.37f1e5a5.js"
+    "static/css/main.6da81a36.css",
+    "static/js/main.bd1f6fe1.js"
   ]
 }
